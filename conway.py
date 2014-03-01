@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import numpy as np
 import time
 from lib import fft_convolve2d
